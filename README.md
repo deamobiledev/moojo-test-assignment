@@ -7,7 +7,7 @@ The cashback app provides a user-friendly interface for discovering and claiming
 1. **Clone the repository:**
    git clone https://github.com/deamobiledev/moojo-test-assignment.git
 2. **Navigate to the project directory:**
-   cd your-repo-name
+   cd moojo-test-assignment
 ### Build and Run
 1. **Install dependencies:**
    npm install
